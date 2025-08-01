@@ -17,8 +17,8 @@ public partial class appointment
 
     public string StatusofAppoint { get; set; }
 
-    public virtual Doctor Doctor { get; set; }
+    public virtual doctor Doctor { get; set; }
 
-    public virtual Patient Patient { get; set; }
+    public virtual patient Patient { get; set; }
 }
 

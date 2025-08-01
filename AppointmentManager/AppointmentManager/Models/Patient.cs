@@ -17,5 +17,5 @@ public partial class patient
 
     public string PatientGender { get; set; }
 
-    public virtual Appointment Appointment { get; set; }
+    public virtual appointment Appointment { get; set; }
 }

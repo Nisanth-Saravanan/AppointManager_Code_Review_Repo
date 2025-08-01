@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AnalysisConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
-  <SonarConfigDir>D:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentManager\AppointmentManager\.sonarqube\conf</SonarConfigDir>
-  <SonarOutputDir>D:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentManager\AppointmentManager\.sonarqube\out</SonarOutputDir>
-  <SonarBinDir>D:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentManager\AppointmentManager\.sonarqube\bin</SonarBinDir>
-  <SonarScannerWorkingDirectory>D:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentManager\AppointmentManager</SonarScannerWorkingDirectory>
+  <SonarConfigDir>D:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\.sonarqube\conf</SonarConfigDir>
+  <SonarOutputDir>D:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\.sonarqube\out</SonarOutputDir>
+  <SonarBinDir>D:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\.sonarqube\bin</SonarBinDir>
+  <SonarScannerWorkingDirectory>D:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager</SonarScannerWorkingDirectory>
   <JavaExePath>C:\Users\nisanth.saravanan\.sonar\cache\11a61a94d383e755b08b4e5890a13d148bc9f95b7149cbbeec62efb8c75a4a67\OpenJDK17U-jre_x64_windows_hotspot_17.0.13_11.zip_extracted\jdk-17.0.13+11-jre/bin/java.exe</JavaExePath>
   <ScanAllAnalysis>true</ScanAllAnalysis>
   <HasBeginStepCommandLineCredentials>true</HasBeginStepCommandLineCredentials>
   <HasBeginStepCommandLineTruststorePassword>false</HasBeginStepCommandLineTruststorePassword>
   <SonarQubeHostUrl>http://localhost:9000</SonarQubeHostUrl>
   <SonarQubeVersion>25.1.0.102122</SonarQubeVersion>
-  <SonarProjectKey>Apointer</SonarProjectKey>
+  <SonarProjectKey>AppointmentManager---Sonar---Project</SonarProjectKey>
   <AdditionalConfig>
     <ConfigSetting Id="BuildUri" />
     <ConfigSetting Id="TfsUri" />
     <ConfigSetting Id="VsCoverageConverterToolPath" />
     <ConfigSetting Id="UnchangedFilesPath" />
-    <ConfigSetting Id="sonar.pullrequest.cache.basepath" Value="D:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentManager\AppointmentManager" />
+    <ConfigSetting Id="sonar.pullrequest.cache.basepath" Value="D:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager" />
     <ConfigSetting Id="settings.file.path" Value="C:\Users\nisanth.saravanan\.dotnet\tools\.store\dotnet-sonarscanner\10.3.0\dotnet-sonarscanner\10.3.0\tools\netcoreapp3.1\any\SonarQube.Analysis.xml" />
   </AdditionalConfig>
   <ServerSettings>
@@ -144,7 +144,7 @@
     <Property Name="sonar.java.jvmframeworkconfig.activate">true</Property>
     <Property Name="sonar.updatecenter.url">https://downloads.sonarsource.com/sonarqube/update/update-center.properties</Property>
     <Property Name="sonar.core.id">147B411E-AZg7VLshUmAsdEKVlVeD</Property>
-    <Property Name="sonar.core.startTime">31/07/2025 11:14:33 PM</Property>
+    <Property Name="sonar.core.startTime">01/08/2025 02:39:59 PM</Property>
   </ServerSettings>
   <LocalSettings>
     <Property Name="sonar.host.url">http://localhost:9000</Property>
@@ -153,8 +153,8 @@
   <AnalyzersSettings>
     <AnalyzerSettings>
       <Language>cs</Language>
-      <RulesetPath>D:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentManager\AppointmentManager\.sonarqube\conf\Sonar-cs.ruleset</RulesetPath>
-      <DeactivatedRulesetPath>D:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentManager\AppointmentManager\.sonarqube\conf\Sonar-cs-none.ruleset</DeactivatedRulesetPath>
+      <RulesetPath>D:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\.sonarqube\conf\Sonar-cs.ruleset</RulesetPath>
+      <DeactivatedRulesetPath>D:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\.sonarqube\conf\Sonar-cs-none.ruleset</DeactivatedRulesetPath>
       <AnalyzerPlugins>
         <AnalyzerPlugin Key="csharp" Version="10.4.0.108396" StaticResourceName="SonarAnalyzer-csharp-10.4.0.108396.zip">
           <AssemblyPaths>
@@ -164,13 +164,13 @@
         </AnalyzerPlugin>
       </AnalyzerPlugins>
       <AdditionalFilePaths>
-        <Path>D:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentManager\AppointmentManager\.sonarqube\conf\cs\SonarLint.xml</Path>
+        <Path>D:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\.sonarqube\conf\cs\SonarLint.xml</Path>
       </AdditionalFilePaths>
     </AnalyzerSettings>
     <AnalyzerSettings>
       <Language>vbnet</Language>
-      <RulesetPath>D:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentManager\AppointmentManager\.sonarqube\conf\Sonar-vbnet.ruleset</RulesetPath>
-      <DeactivatedRulesetPath>D:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentManager\AppointmentManager\.sonarqube\conf\Sonar-vbnet-none.ruleset</DeactivatedRulesetPath>
+      <RulesetPath>D:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\.sonarqube\conf\Sonar-vbnet.ruleset</RulesetPath>
+      <DeactivatedRulesetPath>D:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\.sonarqube\conf\Sonar-vbnet-none.ruleset</DeactivatedRulesetPath>
       <AnalyzerPlugins>
         <AnalyzerPlugin Key="vbnet" Version="10.4.0.108396" StaticResourceName="SonarAnalyzer-vbnet-10.4.0.108396.zip">
           <AssemblyPaths>
@@ -180,7 +180,7 @@
         </AnalyzerPlugin>
       </AnalyzerPlugins>
       <AdditionalFilePaths>
-        <Path>D:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentManager\AppointmentManager\.sonarqube\conf\vbnet\SonarLint.xml</Path>
+        <Path>D:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\.sonarqube\conf\vbnet\SonarLint.xml</Path>
       </AdditionalFilePaths>
     </AnalyzerSettings>
   </AnalyzersSettings>

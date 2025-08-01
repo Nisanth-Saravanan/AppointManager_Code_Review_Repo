@@ -34,7 +34,7 @@ public partial class appdbcontext : DbContext
             .UseCollation("utf8mb4_0900_ai_ci")
             .HasCharSet("utf8mb4");
 
-        modelBuilder.Entity<Appointment>(entity =>
+        modelBuilder.Entity<appointment>(entity =>
         {
             entity.HasKey(e => e.AppointmentId).HasName("PRIMARY");
 
@@ -48,15 +48,15 @@ public partial class appdbcontext : DbContext
             entity.Property(e => e.TimeofAppoint).HasColumnType("time");
 
             entity.HasOne(d => d.Doctor).WithOne(p => p.Appointment)
-                .HasForeignKey<Appointment>(d => d.DoctorId)
+                .HasForeignKey<appointment>(d => d.DoctorId)
                 .HasConstraintName("appointments_ibfk_2");
 
             entity.HasOne(d => d.Patient).WithOne(p => p.Appointment)
-                .HasForeignKey<Appointment>(d => d.PatientId)
+                .HasForeignKey<appointment>(d => d.PatientId)
                 .HasConstraintName("appointments_ibfk_1");
         });
 
-        modelBuilder.Entity<Doctor>(entity =>
+        modelBuilder.Entity<doctor>(entity =>
         {
             entity.HasKey(e => e.DoctorId).HasName("PRIMARY");
 
@@ -67,7 +67,7 @@ public partial class appdbcontext : DbContext
             entity.Property(e => e.Specialization).HasMaxLength(100);
         });
 
-        modelBuilder.Entity<Patient>(entity =>
+        modelBuilder.Entity<patient>(entity =>
         {
             entity.HasKey(e => e.PatientId).HasName("PRIMARY");
 

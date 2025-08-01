@@ -13,6 +13,6 @@ public partial class doctor
 
     public string Availability { get; set; }
 
-    public virtual Appointment Appointment { get; set; }
+    public virtual appointment Appointment { get; set; }
 }
 

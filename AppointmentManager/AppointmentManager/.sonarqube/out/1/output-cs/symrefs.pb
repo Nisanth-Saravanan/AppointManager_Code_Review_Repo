@@ -1,12 +1,12 @@
-ž
-rD:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentManager\AppointmentManager\Program.cs8
+º
+D:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Program.cs8
  		 		H O
 
  % 
  
 		, 3		7 >X
-           $$ Û
-yD:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentManager\AppointmentManager\Models\Patient.cs
+           $$ ÷
+”D:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Models\Patient.cs
 
  
 
@@ -14,24 +14,24 @@ yD:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentMa
 
 
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
-  
+ 
 
-  +±
-€D:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentManager\AppointmentManager\Models\ErrorViewModel.cs
+ *Ì
+›D:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Models\ErrorViewModel.cs
 
  
   ; D
 
- !Â
-xD:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentManager\AppointmentManager\Models\Doctor.cs
+ !Þ
+“D:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Models\Doctor.cs
 
  
 
@@ -39,14 +39,14 @@ xD:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentMa
 
 
 
- 
+ 
 
- !
+  
 
- 
+ 
 
-  +ë
-}D:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentManager\AppointmentManager\Models\Appointment.cs
+ *‡
+˜D:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Models\Appointment.cs
 
   
 
@@ -54,20 +54,20 @@ xD:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentMa
 
 
 
- 
+ 
 
- 
+ 
 
- "
+ !
 
- "
+ !
 
- "
+ !
 
- !
+  
 
- #ö
-|D:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentManager\AppointmentManager\Data\AppDbContext.cs
+ "’
+—D:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Data\AppDbContext.cs
 		 !) 5
 7 > 
 
@@ -107,8 +107,8 @@ xD:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentMa
 OO OO! "
 UU 'RR 
 
-UU5 AÈ
-ˆD:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentManager\AppointmentManager\Controllers\PatientController.cs
+UU5 Aã
+£D:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Controllers\PatientController.cs
 
  "–
 & .  &$$  (BB CC QQ  (oo pp "
@@ -169,8 +169,8 @@ xD:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentMa
 ¥¥= ?
 
 ¥¥) *
-¥¥. /ø
-…D:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentManager\AppointmentManager\Controllers\HomeController.cs
+¥¥. /“
+ D:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Controllers\HomeController.cs
  		! /& 4
 		1 8 
 6 < 
@@ -179,8 +179,8 @@ xD:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentMa
 
  $
 
- "Å
-‡D:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentManager\AppointmentManager\Controllers\DoctorController.cs
+ "à
+¢D:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Controllers\DoctorController.cs
 
  !–
 & .  &$$ 'CC DD RR 'pp qq "
@@ -240,9 +240,9 @@ xD:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentMa
 ¦¦; =
 
 ¦¦( )
-¦¦- .°
+¦¦- .Ë
 
-ŒD:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentManager\AppointmentManager\Controllers\AppointmentController.cs
+§D:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Controllers\AppointmentController.cs
 
  &’
 & .  '%%$ ,442 :553 ;664 <775 =JJ KK NN2 :OO3 ;[[$ ,``4 <aa5 =bb2 :cc3 ;}} ~~ "

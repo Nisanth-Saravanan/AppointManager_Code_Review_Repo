@@ -1,5 +1,5 @@
-Å
-rD:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentManager\AppointmentManager\Program.cs
+ù
+çD:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Program.cs
 var 
 builder 
 = 
@@ -180,8 +180,8 @@ UseRouting 
 ($$ 
 )$$ 	
 ;$$	 
-ï
-yD:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentManager\AppointmentManager\Models\Patient.cs
+◊
+îD:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Models\Patient.cs
 	namespace 	
 AppointmentManager
  
@@ -191,7 +191,7 @@ yD:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentMa
 public 
 partial 
 class 
-Patient 
+patient 
 { 
 public 
 
@@ -209,90 +209,82 @@ yD:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentMa
 
 string
 
- 
-?
-
- 
+ 
 PatientName
 
- 
+ 
 {
 
-  
+ 
 get
 
-! $
+  #
 ;
 
-$ %
+# $
 set
 
-& )
+% (
 ;
 
-) *
+( )
 }
 
-+ ,
+* +
 public 
 
-string 
-? 
-PatientEmail 
-{  !
-get" %
-;% &
-set' *
-;* +
-}, -
+string 
+PatientEmail 
+{  
+get! $
+;$ %
+set& )
+;) *
+}+ ,
 public 
 
-int 
-? 
-PatientPhone 
-{ 
-get "
-;" #
-set$ '
-;' (
-}) *
+int 
+PatientPhone 
+{ 
+get !
+;! "
+set# &
+;& '
+}( )
 public 
 
-DateOnly 
-? 
+DateOnly 
 
-PatientDob 
-{  !
-get" %
-;% &
-set' *
-;* +
-}, -
+PatientDob 
+{  
+get! $
+;$ %
+set& )
+;) *
+}+ ,
 public 
 
-string 
-? 
-PatientGender  
-{! "
-get# &
-;& '
-set( +
-;+ ,
-}- .
+string 
+PatientGender 
+{  !
+get" %
+;% &
+set' *
+;* +
+}, -
 public 
 
 virtual 
-Appointment 
-? 
-Appointment  +
-{, -
-get. 1
-;1 2
-set3 6
-;6 7
-}8 9
-} ‰
-ÄD:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentManager\AppointmentManager\Models\ErrorViewModel.cs
+appointment 
+Appointment *
+{+ ,
+get- 0
+;0 1
+set2 5
+;5 6
+}7 8
+} ˇ
+õD:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Models\ErrorViewModel.cs
 	namespace 	
 AppointmentManager
  
@@ -327,8 +319,8 @@ PatientDob 
 )D E
 ;E F
 } 
-}		 ∑	
-xD:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentManager\AppointmentManager\Models\Doctor.cs
+}		 ó	
+ìD:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Models\Doctor.cs
 	namespace 	
 AppointmentManager
  
@@ -338,7 +330,7 @@ xD:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentMa
 public 
 partial 
 class 
-Doctor 
+doctor 
 { 
 public 
 
@@ -356,68 +348,62 @@ xD:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentMa
 
 string
 
- 
-?
-
- 
+ 
 
 DoctorName
 
- 
+ 
 {
 
- 
+ 
 get
 
-  #
+ "
 ;
 
-# $
+" #
 set
 
-% (
+$ '
 ;
 
-( )
+' (
 }
 
-* +
+) *
 public 
 
-string 
-? 
-Specialization !
-{" #
-get$ '
-;' (
-set) ,
-;, -
-}. /
+string 
+Specialization  
+{! "
+get# &
+;& '
+set( +
+;+ ,
+}- .
 public 
 
-string 
-? 
-Availability 
-{  !
-get" %
-;% &
-set' *
-;* +
-}, -
+string 
+Availability 
+{  
+get! $
+;$ %
+set& )
+;) *
+}+ ,
 public 
 
 virtual 
-Appointment 
-? 
-Appointment  +
-{, -
-get. 1
-;1 2
-set3 6
-;6 7
-}8 9
-} ÷
-}D:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentManager\AppointmentManager\Models\Appointment.cs
+appointment 
+Appointment *
+{+ ,
+get- 0
+;0 1
+set2 5
+;5 6
+}7 8
+} â
+òD:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Models\Appointment.cs
 	namespace 	
 AppointmentManager
  
@@ -427,7 +413,7 @@ DoctorName
 public 
 partial 
 class 
-Appointment  
+appointment  
 { 
 public 
 
@@ -445,101 +431,92 @@ DoctorName
 
 int
 
- 
-?
-
- 
+ 
 	PatientId
 
- 
+ 
 {
 
- 
+ 
 get
 
- 
+ 
 ;
 
-  
+ 
 set
 
-! $
+  #
 ;
 
-$ %
+# $
 }
 
-& '
+% &
 public 
 
-int 
-? 
-DoctorId 
-{ 
-get 
-; 
-set  #
-;# $
-}% &
+int 
+DoctorId 
+{ 
+get 
+; 
+set "
+;" #
+}$ %
 public 
 
-DateOnly 
-? 
-DateofAppoint "
-{# $
-get% (
-;( )
-set* -
-;- .
-}/ 0
+DateOnly 
+DateofAppoint !
+{" #
+get$ '
+;' (
+set) ,
+;, -
+}. /
 public 
 
-TimeOnly 
-? 
-TimeofAppoint "
-{# $
-get% (
-;( )
-set* -
-;- .
-}/ 0
+TimeOnly 
+TimeofAppoint !
+{" #
+get$ '
+;' (
+set) ,
+;, -
+}. /
 public 
 
-string 
-? 
-StatusofAppoint "
-{# $
-get% (
-;( )
-set* -
-;- .
-}/ 0
+string 
+StatusofAppoint !
+{" #
+get$ '
+;' (
+set) ,
+;, -
+}. /
 public 
 
 virtual 
-Doctor 
-? 
-Doctor !
-{" #
-get$ '
-;' (
-set) ,
-;, -
-}. /
+doctor 
+Doctor  
+{! "
+get# &
+;& '
+set( +
+;+ ,
+}- .
 public 
 
 virtual 
-Patient 
-? 
-Patient #
-{$ %
-get& )
-;) *
-set+ .
-;. /
-}0 1
-} ÛD
-|D:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentManager\AppointmentManager\Data\AppDbContext.cs
+patient 
+Patient "
+{# $
+get% (
+;( )
+set* -
+;- .
+}/ 0
+} èE
+óD:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Data\AppDbContext.cs
 	namespace 	
 AppointmentManager
  
@@ -585,7 +562,7 @@ DoctorName
 virtual 
 DbSet 
 < 
-Appointment $
+appointment $
 >$ %
 Appointments& 2
 {3 4
@@ -599,7 +576,7 @@ DoctorName
 virtual 
 DbSet 
 < 
-Doctor 
+doctor 
 >  
 Doctors! (
 {) *
@@ -613,7 +590,7 @@ DoctorName
 virtual 
 DbSet 
 < 
-Patient  
+patient  
 >  !
 Patients" *
 {+ ,
@@ -1054,8 +1031,8 @@ DoctorNameBB# -
 modelBuilderUU5 A
 )UUA B
 ;UUB C
-}VV ÔR
-àD:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentManager\AppointmentManager\Controllers\PatientController.cs
+}VV äS
+£D:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Controllers\PatientController.cs
 	namespace 	
 AppointmentManager
  
@@ -1210,7 +1187,7 @@ Controller% /
 99Ä Å
 ]
 99Å Ç
-Patient
+patient
 99É ä
 patient
 99ã í
@@ -1365,7 +1342,7 @@ ModelState;; 
 ^^Ü á
 ]
 ^^á à
-Patient
+patient
 ^^â ê
 patient
 ^^ë ò
@@ -1806,8 +1783,8 @@ ActionName
 ¶¶ 	
 }
 ßß 
-}®® ©
-ÖD:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentManager\AppointmentManager\Controllers\HomeController.cs
+}®® ƒ
+†D:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Controllers\HomeController.cs
 	namespace 	
 AppointmentManager
  
@@ -1916,8 +1893,8 @@ Controller" ,
 ;o p
 } 	
 } 
-}   ∂R
-áD:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentManager\AppointmentManager\Controllers\DoctorController.cs
+}   —R
+¢D:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Controllers\DoctorController.cs
 	namespace 	
 AppointmentManager
  
@@ -2070,7 +2047,7 @@ Controller$ .
 $str996 g
 )99g h
 ]99h i
-Doctor99j p
+doctor99j p
 doctor99q w
 )99w x
 {:: 	
@@ -2220,7 +2197,7 @@ ModelState;; 
 $str__< m
 )__m n
 ]__n o
-Doctor__p v
+doctor__p v
 doctor__w }
 )__} ~
 {`` 	
@@ -2664,8 +2641,8 @@ ActionName
 ßß 	
 }
 ®® 
-}©© ˆ|
-åD:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentManager\AppointmentManager\Controllers\AppointmentController.cs
+}©© ë}
+ßD:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Controllers\AppointmentController.cs
 	namespace 	
 AppointmentManager
  
@@ -2933,7 +2910,7 @@ SelectList77* 4
 @@Ñ Ö
 ]
 @@Ö Ü
-Appointment
+appointment
 @@á í
 appointment
 @@ì û
@@ -3212,7 +3189,7 @@ SelectListcc( 2
 llä ã
 ]
 llã å
-Appointment
+appointment
 llç ò
 appointment
 llô §

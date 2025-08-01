@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Intern Files\\Intern Assessment\\L1 Assessment\\Code Quality\\AppointmentManager\\AppointmentManager\\AppointmentManager.csproj": {}
+    "D:\\Intern Files\\Intern Assessment\\L1 Assessment\\Code Quality\\AppointManager_Code_Review_Repo\\AppointmentManager\\AppointmentManager\\AppointmentManager.csproj": {}
   },
   "projects": {
-    "D:\\Intern Files\\Intern Assessment\\L1 Assessment\\Code Quality\\AppointmentManager\\AppointmentManager\\AppointmentManager.csproj": {
+    "D:\\Intern Files\\Intern Assessment\\L1 Assessment\\Code Quality\\AppointManager_Code_Review_Repo\\AppointmentManager\\AppointmentManager\\AppointmentManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Intern Files\\Intern Assessment\\L1 Assessment\\Code Quality\\AppointmentManager\\AppointmentManager\\AppointmentManager.csproj",
+        "projectUniqueName": "D:\\Intern Files\\Intern Assessment\\L1 Assessment\\Code Quality\\AppointManager_Code_Review_Repo\\AppointmentManager\\AppointmentManager\\AppointmentManager.csproj",
         "projectName": "AppointmentManager",
-        "projectPath": "D:\\Intern Files\\Intern Assessment\\L1 Assessment\\Code Quality\\AppointmentManager\\AppointmentManager\\AppointmentManager.csproj",
+        "projectPath": "D:\\Intern Files\\Intern Assessment\\L1 Assessment\\Code Quality\\AppointManager_Code_Review_Repo\\AppointmentManager\\AppointmentManager\\AppointmentManager.csproj",
         "packagesPath": "C:\\Users\\nisanth.saravanan\\.nuget\\packages\\",
-        "outputPath": "D:\\Intern Files\\Intern Assessment\\L1 Assessment\\Code Quality\\AppointmentManager\\AppointmentManager\\obj\\",
+        "outputPath": "D:\\Intern Files\\Intern Assessment\\L1 Assessment\\Code Quality\\AppointManager_Code_Review_Repo\\AppointmentManager\\AppointmentManager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

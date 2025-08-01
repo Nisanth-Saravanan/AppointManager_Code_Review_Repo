@@ -1,1 +1,0 @@
-òRÅD:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentManager\AppointmentManager\AppointmentManager.csproj¢net8.0ÚCSharp12
