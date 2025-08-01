@@ -6,23 +6,23 @@ using Pomelo.EntityFrameworkCore.MySql.Scaffolding.Internal;
 
 namespace AppointmentManager.Data;
 
-public partial class appdbcontext : DbContext
+public partial class AppDbContext : DbContext
 {
-    public appdbcontext()
+    public AppDbContext()
     {
         // Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
     }
 
-    public appdbcontext(DbContextOptions<appdbcontext> options)
+    public AppDbContext(DbContextOptions<AppDbContext> options)
         : base(options)
     {
     }
 
-    public virtual DbSet<appointment> Appointments { get; set; }
+    public virtual DbSet<Appointment> Appointments { get; set; }
 
-    public virtual DbSet<doctor> Doctors { get; set; }
+    public virtual DbSet<Doctor> Doctors { get; set; }
 
-    public virtual DbSet<patient> Patients { get; set; }
+    public virtual DbSet<Patient> Patients { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     //#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
@@ -34,7 +34,7 @@ public partial class appdbcontext : DbContext
             .UseCollation("utf8mb4_0900_ai_ci")
             .HasCharSet("utf8mb4");
 
-        modelBuilder.Entity<appointment>(entity =>
+        modelBuilder.Entity<Appointment>(entity =>
         {
             entity.HasKey(e => e.AppointmentId).HasName("PRIMARY");
 
@@ -48,15 +48,15 @@ public partial class appdbcontext : DbContext
             entity.Property(e => e.TimeofAppoint).HasColumnType("time");
 
             entity.HasOne(d => d.Doctor).WithOne(p => p.Appointment)
-                .HasForeignKey<appointment>(d => d.DoctorId)
+                .HasForeignKey<Appointment>(d => d.DoctorId)
                 .HasConstraintName("appointments_ibfk_2");
 
             entity.HasOne(d => d.Patient).WithOne(p => p.Appointment)
-                .HasForeignKey<appointment>(d => d.PatientId)
+                .HasForeignKey<Appointment>(d => d.PatientId)
                 .HasConstraintName("appointments_ibfk_1");
         });
 
-        modelBuilder.Entity<doctor>(entity =>
+        modelBuilder.Entity<Doctor>(entity =>
         {
             entity.HasKey(e => e.DoctorId).HasName("PRIMARY");
 
@@ -67,7 +67,7 @@ public partial class appdbcontext : DbContext
             entity.Property(e => e.Specialization).HasMaxLength(100);
         });
 
-        modelBuilder.Entity<patient>(entity =>
+        modelBuilder.Entity<Patient>(entity =>
         {
             entity.HasKey(e => e.PatientId).HasName("PRIMARY");
 

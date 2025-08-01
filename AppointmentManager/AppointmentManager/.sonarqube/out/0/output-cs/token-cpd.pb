@@ -16,7 +16,7 @@
 .		 
 AddDbContext		 
 <		 
-appdbcontext		 *
+AppDbContext		 *
 >		* +
 (		+ ,
 options		, 3
@@ -180,61 +180,58 @@ UseRouting 
 ($$ 
 )$$ 	
 ;$$	 
-◊
+ˆ
 îD:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Models\Patient.cs
-	namespace 	
-AppointmentManager
+	namespace 	
+AppointmentManager
  
-. 
-Models #
-;# $
-public 
-partial 
-class 
-patient 
-{ 
-public 
-
-int 
-	PatientId 
-{ 
-get 
-; 
-set  #
-;# $
-}% &
+. 
+Models #
+;# $
+public 
+partial 
+class 
+Patient 
+{ 
+[		 
+Key		 
+]		 	
 public
 
  
-
-string
+
+required
 
- 
-PatientName
+ 
+int
 
- 
+ 
+	PatientId
+
+ !
 {
 
- 
+" #
 get
 
-  #
+$ '
 ;
 
-# $
+' (
 set
 
-% (
+) ,
 ;
 
-( )
+, -
 }
 
-* +
+. /
 public 
 
-string 
-PatientEmail 
+string 
+? 
+PatientName 
 {  
 get! $
 ;$ %
@@ -242,30 +239,33 @@ UseRouting 
 ;) *
 }+ ,
 public 
-
-int 
-PatientPhone 
-{ 
-get !
-;! "
-set# &
-;& '
-}( )
-public 
-
-DateOnly 
-
-PatientDob 
-{  
-get! $
-;$ %
-set& )
-;) *
-}+ ,
-public 
 
-string 
-PatientGender 
+string 
+? 
+PatientEmail 
+{  !
+get" %
+;% &
+set' *
+;* +
+}, -
+public 
+
+int 
+? 
+PatientPhone 
+{ 
+get "
+;" #
+set$ '
+;' (
+}) *
+public 
+
+DateOnly 
+? 
+
+PatientDob 
 {  !
 get" %
 ;% &
@@ -273,17 +273,29 @@ PatientDob 
 ;* +
 }, -
 public 
+
+string 
+? 
+PatientGender  
+{! "
+get# &
+;& '
+set( +
+;+ ,
+}- .
+public 
 
-virtual 
-appointment 
-Appointment *
-{+ ,
-get- 0
-;0 1
-set2 5
-;5 6
-}7 8
-} ˇ
+virtual 
+Appointment 
+? 
+Appointment  +
+{, -
+get. 1
+;1 2
+set3 6
+;6 7
+}8 9
+} ˇ
 õD:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Models\ErrorViewModel.cs
 	namespace 	
 AppointmentManager
@@ -319,154 +331,197 @@ PatientDob 
 )D E
 ;E F
 } 
-}		 ó	
-ìD:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Models\Doctor.cs
-	namespace 	
-AppointmentManager
- 
-. 
-Models #
-;# $
-public 
-partial 
-class 
-doctor 
-{ 
-public 
-
-int 
-DoctorId 
-{ 
-get 
-; 
-set "
-;" #
-}$ %
-public
-
- 
-
-string
-
- 
-
-DoctorName
-
- 
-{
-
- 
-get
-
- "
-;
-
-" #
-set
-
-$ '
-;
-
-' (
-}
-
-) *
-public 
-
-string 
-Specialization  
-{! "
-get# &
-;& '
-set( +
-;+ ,
-}- .
-public 
-
-string 
-Availability 
-{  
-get! $
-;$ %
-set& )
-;) *
-}+ ,
-public 
-
-virtual 
-appointment 
-Appointment *
-{+ ,
-get- 0
-;0 1
-set2 5
-;5 6
-}7 8
-} â
+}		 ∑
 òD:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Models\Appointment.cs
-	namespace 	
-AppointmentManager
+	namespace 	
+AppointmentManager
  
-. 
-Models #
-;# $
-public 
-partial 
-class 
-appointment  
-{ 
-public 
-
-int 
-AppointmentId 
-{ 
-get "
-;" #
-set$ '
-;' (
-}) *
+. 
+Models #
+;# $
+public 
+partial 
+class 
+Appointment  
+{ 
+[		 
+Key		 
+]		 	
 public
 
  
-
+
+required
+
+ 
 int
 
- 
-	PatientId
+ 
+AppointmentId
 
- 
+ %
 {
 
- 
+& '
 get
 
- 
+( +
 ;
 
- 
++ ,
 set
 
-  #
+- 0
 ;
 
-# $
+0 1
 }
 
-% &
+2 3
 public 
 
-int 
-DoctorId 
-{ 
-get 
-; 
-set "
-;" #
-}$ %
+int 
+? 
+	PatientId 
+{ 
+get 
+;  
+set! $
+;$ %
+}& '
 public 
+
+int 
+? 
+DoctorId 
+{ 
+get 
+; 
+set  #
+;# $
+}% &
+public 
 
-DateOnly 
-DateofAppoint !
+DateOnly 
+? 
+DateofAppoint "
+{# $
+get% (
+;( )
+set* -
+;- .
+}/ 0
+public 
+
+TimeOnly 
+? 
+TimeofAppoint "
+{# $
+get% (
+;( )
+set* -
+;- .
+}/ 0
+public 
+
+string 
+? 
+StatusofAppoint "
+{# $
+get% (
+;( )
+set* -
+;- .
+}/ 0
+public 
+
+virtual 
+Doctor 
+? 
+Doctor !
+{" #
+get$ '
+;' (
+set) ,
+;, -
+}. /
+public 
+
+virtual 
+Patient 
+? 
+Patient #
+{$ %
+get& )
+;) *
+set+ .
+;. /
+}0 1
+} ò
+
+ìD:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Models\Doctor.cs
+	namespace 	
+AppointmentManager
+ 
+. 
+Models #
+;# $
+public 
+partial 
+class 
+Doctor 
+{ 
+[		 
+Key		 
+]		 	
+public
+
+ 
+
+required
+
+ 
+int
+
+ 
+DoctorId
+
+  
+{
+
+! "
+get
+
+# &
+;
+
+& '
+set
+
+( +
+;
+
++ ,
+}
+
+- .
+public 
+
+string 
+? 
+
+DoctorName 
+{ 
+get  #
+;# $
+set% (
+;( )
+}* +
+public 
+
+string 
+? 
+Specialization !
 {" #
 get$ '
 ;' (
@@ -474,48 +529,29 @@ DoctorName
 ;, -
 }. /
 public 
-
-TimeOnly 
-TimeofAppoint !
-{" #
-get$ '
-;' (
-set) ,
-;, -
-}. /
-public 
 
-string 
-StatusofAppoint !
-{" #
-get$ '
-;' (
-set) ,
-;, -
-}. /
-public 
+string 
+? 
+Availability 
+{  !
+get" %
+;% &
+set' *
+;* +
+}, -
+public 
 
-virtual 
-doctor 
-Doctor  
-{! "
-get# &
-;& '
-set( +
-;+ ,
-}- .
-public 
-
-virtual 
-patient 
-Patient "
-{# $
-get% (
-;( )
-set* -
-;- .
-}/ 0
-} èE
+virtual 
+Appointment 
+? 
+Appointment  +
+{, -
+get. 1
+;1 2
+set3 6
+;6 7
+}8 9
+} èE
 óD:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Data\AppDbContext.cs
 	namespace 	
 AppointmentManager
@@ -526,7 +562,7 @@ DoctorName
 public		 
 partial		 
 class		 
-appdbcontext		 !
+AppDbContext		 !
 :		" #
 	DbContext		$ -
 {
@@ -534,18 +570,18 @@ DoctorName
  
 public 
 
-appdbcontext 
+AppDbContext 
 ( 
 ) 
 { 
 } 
 public 
 
-appdbcontext 
+AppDbContext 
 ( 
 DbContextOptions (
 <( )
-appdbcontext) 5
+AppDbContext) 5
 >5 6
 options7 >
 )> ?
@@ -562,7 +598,7 @@ DoctorName
 virtual 
 DbSet 
 < 
-appointment $
+Appointment $
 >$ %
 Appointments& 2
 {3 4
@@ -576,7 +612,7 @@ DoctorName
 virtual 
 DbSet 
 < 
-doctor 
+Doctor 
 >  
 Doctors! (
 {) *
@@ -590,7 +626,7 @@ DoctorName
 virtual 
 DbSet 
 < 
-patient  
+Patient  
 >  !
 Patients" *
 {+ ,
@@ -1049,13 +1085,13 @@ Controller% /
 { 
 private 
 readonly 
-appdbcontext %
+AppDbContext %
 _context& .
 ;. /
 public 
 PatientController  
 (  !
-appdbcontext! -
+AppDbContext! -
 context. 5
 )5 6
 { 	
@@ -1187,7 +1223,7 @@ Controller% /
 99Ä Å
 ]
 99Å Ç
-patient
+Patient
 99É ä
 patient
 99ã í
@@ -1342,7 +1378,7 @@ ModelState;; 
 ^^Ü á
 ]
 ^^á à
-patient
+Patient
 ^^â ê
 patient
 ^^ë ò
@@ -1911,13 +1947,13 @@ Controller$ .
 { 
 private 
 readonly 
-appdbcontext %
+AppDbContext %
 _context& .
 ;. /
 public 
 DoctorController 
 (  
-appdbcontext  ,
+AppDbContext  ,
 context- 4
 )4 5
 { 	
@@ -2047,7 +2083,7 @@ Controller$ .
 $str996 g
 )99g h
 ]99h i
-doctor99j p
+Doctor99j p
 doctor99q w
 )99w x
 {:: 	
@@ -2197,7 +2233,7 @@ ModelState;; 
 $str__< m
 )__m n
 ]__n o
-doctor__p v
+Doctor__p v
 doctor__w }
 )__} ~
 {`` 	
@@ -2659,13 +2695,13 @@ Controller) 3
 { 
 private 
 readonly 
-appdbcontext %
+AppDbContext %
 _context& .
 ;. /
 public !
 AppointmentController $
 ($ %
-appdbcontext% 1
+AppDbContext% 1
 context2 9
 )9 :
 { 	
@@ -2685,7 +2721,7 @@ Controller) 3
 )/ 0
 { 	
 var 
-appdbcontext 
+AppDbContext 
 = 
 _context '
 .' (
@@ -2713,7 +2749,7 @@ Controller) 3
 View 
 ( 
 await 
-appdbcontext *
+AppDbContext *
 .* +
 ToListAsync+ 6
 (6 7
@@ -2910,7 +2946,7 @@ SelectList77* 4
 @@Ñ Ö
 ]
 @@Ö Ü
-appointment
+Appointment
 @@á í
 appointment
 @@ì û
@@ -3189,7 +3225,7 @@ SelectListcc( 2
 llä ã
 ]
 llã å
-appointment
+Appointment
 llç ò
 appointment
 llô §

@@ -1,24 +1,26 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace AppointmentManager.Models;
 
-public partial class appointment
+public partial class Appointment
 {
-    public int AppointmentId { get; set; }
+    [Key]
+    public required int AppointmentId { get; set; }
 
-    public int PatientId { get; set; }
+    public int? PatientId { get; set; }
 
-    public int DoctorId { get; set; }
+    public int? DoctorId { get; set; }
 
-    public DateOnly DateofAppoint { get; set; }
+    public DateOnly? DateofAppoint { get; set; }
 
-    public TimeOnly TimeofAppoint { get; set; }
+    public TimeOnly? TimeofAppoint { get; set; }
 
-    public string StatusofAppoint { get; set; }
+    public string? StatusofAppoint { get; set; }
 
-    public virtual doctor Doctor { get; set; }
+    public virtual Doctor? Doctor { get; set; }
 
-    public virtual patient Patient { get; set; }
+    public virtual Patient? Patient { get; set; }
 }
 

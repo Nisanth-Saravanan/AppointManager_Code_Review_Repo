@@ -1,1 +1,0 @@
-³RœD:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\AppointmentManager.csproj¢net8.0òCSharp12

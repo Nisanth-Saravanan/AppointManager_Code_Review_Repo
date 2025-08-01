@@ -12,9 +12,9 @@ namespace AppointmentManager.Controllers
 {
     public class AppointmentController : Controller
     {
-        private readonly appdbcontext _context;
+        private readonly AppDbContext _context;
 
-        public AppointmentController(appdbcontext context)
+        public AppointmentController(AppDbContext context)
         {
             _context = context;
         }
@@ -22,8 +22,8 @@ namespace AppointmentManager.Controllers
         // GET: Appointment
         public async Task<IActionResult> Index()
         {
-            var appdbcontext = _context.Appointments.Include(a => a.Doctor).Include(a => a.Patient);
-            return View(await appdbcontext.ToListAsync());
+            var AppDbContext = _context.Appointments.Include(a => a.Doctor).Include(a => a.Patient);
+            return View(await AppDbContext.ToListAsync());
         }
 
         // GET: Appointment/Details/5
@@ -61,7 +61,7 @@ namespace AppointmentManager.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("AppointmentId,PatientId,DoctorId,DateofAppoint,TimeofAppoint,StatusofAppoint")] appointment appointment)
+        public async Task<IActionResult> Create([Bind("AppointmentId,PatientId,DoctorId,DateofAppoint,TimeofAppoint,StatusofAppoint")] Appointment appointment)
         {
             if (ModelState.IsValid)
             {
@@ -105,7 +105,7 @@ namespace AppointmentManager.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("AppointmentId,PatientId,DoctorId,DateofAppoint,TimeofAppoint,StatusofAppoint")] appointment appointment)
+        public async Task<IActionResult> Edit(int id, [Bind("AppointmentId,PatientId,DoctorId,DateofAppoint,TimeofAppoint,StatusofAppoint")] Appointment appointment)
         {
             if (id != appointment.AppointmentId)
             {

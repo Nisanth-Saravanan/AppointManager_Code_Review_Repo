@@ -8,65 +8,65 @@
            $$ ÷
 ”D:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Models\Patient.cs
 
- 
-
- 
+ 
 
 
 
- 
+ !
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
- *Ì
+  
+
+  +Ì
 ›D:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Models\ErrorViewModel.cs
 
  
   ; D
 
- !Þ
-“D:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Models\Doctor.cs
-
- 
-
- 
-
-
-
- 
-
-  
-
- 
-
- *‡
+ !‡
 ˜D:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Models\Appointment.cs
 
-  
-
- 
+  
 
 
 
- 
+ %
 
- 
+ 
 
- !
+ 
 
- !
+ "
 
- !
+ "
 
-  
+ "
 
- "’
+ !
+
+ #Þ
+“D:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Models\Doctor.cs
+
+ 
+
+
+
+  
+
+ 
+
+ !
+
+ 
+
+  +’
 —D:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Data\AppDbContext.cs
 		 !) 5
 7 > 

@@ -1,1 +1,0 @@
-D:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\.sonarqube\out\1

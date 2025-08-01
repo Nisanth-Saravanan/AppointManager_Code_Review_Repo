@@ -12,9 +12,9 @@ namespace AppointmentManager.Controllers
 {
     public class PatientController : Controller
     {
-        private readonly appdbcontext _context;
+        private readonly AppDbContext _context;
 
-        public PatientController(appdbcontext context)
+        public PatientController(AppDbContext context)
         {
             _context = context;
         }
@@ -54,7 +54,7 @@ namespace AppointmentManager.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("PatientId,PatientName,PatientEmail,PatientPhone,PatientDob,PatientGender")] patient patient)
+        public async Task<IActionResult> Create([Bind("PatientId,PatientName,PatientEmail,PatientPhone,PatientDob,PatientGender")] Patient patient)
         {
             if (ModelState.IsValid)
             {
@@ -91,7 +91,7 @@ namespace AppointmentManager.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("PatientId,PatientName,PatientEmail,PatientPhone,PatientDob,PatientGender")] patient patient)
+        public async Task<IActionResult> Edit(int id, [Bind("PatientId,PatientName,PatientEmail,PatientPhone,PatientDob,PatientGender")] Patient patient)
         {
             if (id != patient.PatientId)
             {

@@ -1,16 +1,16 @@
 ƒ
 çD:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Program.cs8jr	
  !"$xÇ	
- $¨
-îD:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Models\Patient.cs 8r
-≤
-õD:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Models\ErrorViewModel.cs 8r	Ç±
-òD:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Models\Appointment.cs 8r
-©
+ $Æ
+îD:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Models\Patient.cs 8r	
+≤
+õD:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Models\ErrorViewModel.cs 8r	Ç≥
+òD:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Models\Appointment.cs 8r	
+´
 ìD:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Models\Doctor.cs 
 8
-r
-É
+r	
+É
 óD:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Data\AppDbContext.cs 
 8
 jr=	

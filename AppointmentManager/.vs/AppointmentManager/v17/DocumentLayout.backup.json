@@ -1,7 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Intern Files\\Intern Assessment\\L1 Assessment\\Code Quality\\AppointmentManager\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Intern Files\\Intern Assessment\\L1 Assessment\\Code Quality\\AppointManager_Code_Review_Repo\\AppointmentManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6850B0-292C-4713-A98B-11E964BD8A25}|AppointmentManager\\AppointmentManager.csproj|d:\\intern files\\intern assessment\\l1 assessment\\code quality\\appointmanager_code_review_repo\\appointmentmanager\\appointmentmanager\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6850B0-292C-4713-A98B-11E964BD8A25}|AppointmentManager\\AppointmentManager.csproj|solutionrelative:appointmentmanager\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6850B0-292C-4713-A98B-11E964BD8A25}|AppointmentManager\\AppointmentManager.csproj|d:\\intern files\\intern assessment\\l1 assessment\\code quality\\appointmanager_code_review_repo\\appointmentmanager\\appointmentmanager\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6850B0-292C-4713-A98B-11E964BD8A25}|AppointmentManager\\AppointmentManager.csproj|solutionrelative:appointmentmanager\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6850B0-292C-4713-A98B-11E964BD8A25}|AppointmentManager\\AppointmentManager.csproj|d:\\intern files\\intern assessment\\l1 assessment\\code quality\\appointmanager_code_review_repo\\appointmentmanager\\appointmentmanager\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6850B0-292C-4713-A98B-11E964BD8A25}|AppointmentManager\\AppointmentManager.csproj|solutionrelative:appointmentmanager\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6850B0-292C-4713-A98B-11E964BD8A25}|AppointmentManager\\AppointmentManager.csproj|d:\\intern files\\intern assessment\\l1 assessment\\code quality\\appointmanager_code_review_repo\\appointmentmanager\\appointmentmanager\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6850B0-292C-4713-A98B-11E964BD8A25}|AppointmentManager\\AppointmentManager.csproj|solutionrelative:appointmentmanager\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +26,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Assessment\\L1 Assessment\\Code Quality\\AppointManager_Code_Review_Repo\\AppointmentManager\\AppointmentManager\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AppointmentManager\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Assessment\\L1 Assessment\\Code Quality\\AppointManager_Code_Review_Repo\\AppointmentManager\\AppointmentManager\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AppointmentManager\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAuwEUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T09:15:08.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Assessment\\L1 Assessment\\Code Quality\\AppointManager_Code_Review_Repo\\AppointmentManager\\AppointmentManager\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "AppointmentManager\\Models\\Patient.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Assessment\\L1 Assessment\\Code Quality\\AppointManager_Code_Review_Repo\\AppointmentManager\\AppointmentManager\\Models\\Patient.cs",
+              "RelativeToolTip": "AppointmentManager\\Models\\Patient.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wBMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T09:14:38.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Assessment\\L1 Assessment\\Code Quality\\AppointManager_Code_Review_Repo\\AppointmentManager\\AppointmentManager\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "AppointmentManager\\Models\\Appointment.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Assessment\\L1 Assessment\\Code Quality\\AppointManager_Code_Review_Repo\\AppointmentManager\\AppointmentManager\\Models\\Appointment.cs",
+              "RelativeToolTip": "AppointmentManager\\Models\\Appointment.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T09:14:28.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Assessment\\L1 Assessment\\Code Quality\\AppointManager_Code_Review_Repo\\AppointmentManager\\AppointmentManager\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "AppointmentManager\\Models\\Doctor.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Assessment\\L1 Assessment\\Code Quality\\AppointManager_Code_Review_Repo\\AppointmentManager\\AppointmentManager\\Models\\Doctor.cs",
+              "RelativeToolTip": "AppointmentManager\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T09:14:07.929Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
