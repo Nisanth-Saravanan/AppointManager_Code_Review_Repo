@@ -1,0 +1,1 @@
+D:\Intern Files\Intern Assessment\L1 Assessment\ASP .NET Core MVC\AppointmentManager\AppointmentManager\.sonarqube\out\0

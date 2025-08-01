@@ -1,0 +1,59 @@
+@model IEnumerable<AppointmentManager.Models.patient>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <button class="btn btn-dark"><a class="text-decoration-none text-light" asp-action="Create">Create New Record</a></button>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PatientName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PatientEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PatientPhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PatientDob)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PatientGender)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PatientName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PatientEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PatientPhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PatientDob)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PatientGender)
+            </td>
+            <td>
+                <button class="btn btn-primary"><a class ="text-decoration-none text-light" asp-action="Edit" asp-route-id="@item.PatientId">Edit</a></button> |
+                <button class="btn btn-info"><a class="text-decoration-none text-light" asp-action="Details" asp-route-id="@item.PatientId">Details</a></button> |
+                <button class="btn btn-danger"><a class="text-decoration-none text-light" asp-action="Delete" asp-route-id="@item.PatientId">Delete</a></button>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

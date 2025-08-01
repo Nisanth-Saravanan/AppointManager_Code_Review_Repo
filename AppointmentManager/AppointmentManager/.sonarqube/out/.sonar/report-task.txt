@@ -1,0 +1,6 @@
+projectKey=Apointer
+serverUrl=http://localhost:9000
+serverVersion=25.1.0.102122
+dashboardUrl=http://localhost:9000/dashboard?id=Apointer
+ceTaskId=7efb519b-39e2-4eea-af89-31343f1f0ab0
+ceTaskUrl=http://localhost:9000/api/ce/task?id=7efb519b-39e2-4eea-af89-31343f1f0ab0

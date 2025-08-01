@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Intern Files\\Intern Assessment\\L1 Assessment\\ASP .NET Core MVC\\AppointmentManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6850B0-292C-4713-A98B-11E964BD8A25}|AppointmentManager\\AppointmentManager.csproj|d:\\intern files\\intern assessment\\l1 assessment\\asp .net core mvc\\appointmentmanager\\appointmentmanager\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6850B0-292C-4713-A98B-11E964BD8A25}|AppointmentManager\\AppointmentManager.csproj|solutionrelative:appointmentmanager\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6850B0-292C-4713-A98B-11E964BD8A25}|AppointmentManager\\AppointmentManager.csproj|d:\\intern files\\intern assessment\\l1 assessment\\asp .net core mvc\\appointmentmanager\\appointmentmanager\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6850B0-292C-4713-A98B-11E964BD8A25}|AppointmentManager\\AppointmentManager.csproj|solutionrelative:appointmentmanager\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6850B0-292C-4713-A98B-11E964BD8A25}|AppointmentManager\\AppointmentManager.csproj|d:\\intern files\\intern assessment\\l1 assessment\\asp .net core mvc\\appointmentmanager\\appointmentmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6850B0-292C-4713-A98B-11E964BD8A25}|AppointmentManager\\AppointmentManager.csproj|solutionrelative:appointmentmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6850B0-292C-4713-A98B-11E964BD8A25}|AppointmentManager\\AppointmentManager.csproj|d:\\intern files\\intern assessment\\l1 assessment\\asp .net core mvc\\appointmentmanager\\appointmentmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F6850B0-292C-4713-A98B-11E964BD8A25}|AppointmentManager\\AppointmentManager.csproj|solutionrelative:appointmentmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6850B0-292C-4713-A98B-11E964BD8A25}|AppointmentManager\\AppointmentManager.csproj|d:\\intern files\\intern assessment\\l1 assessment\\asp .net core mvc\\appointmentmanager\\appointmentmanager\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6850B0-292C-4713-A98B-11E964BD8A25}|AppointmentManager\\AppointmentManager.csproj|solutionrelative:appointmentmanager\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6850B0-292C-4713-A98B-11E964BD8A25}|AppointmentManager\\AppointmentManager.csproj|d:\\intern files\\intern assessment\\l1 assessment\\asp .net core mvc\\appointmentmanager\\appointmentmanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6850B0-292C-4713-A98B-11E964BD8A25}|AppointmentManager\\AppointmentManager.csproj|solutionrelative:appointmentmanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6850B0-292C-4713-A98B-11E964BD8A25}|AppointmentManager\\AppointmentManager.csproj|d:\\intern files\\intern assessment\\l1 assessment\\asp .net core mvc\\appointmentmanager\\appointmentmanager\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6850B0-292C-4713-A98B-11E964BD8A25}|AppointmentManager\\AppointmentManager.csproj|solutionrelative:appointmentmanager\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Assessment\\L1 Assessment\\ASP .NET Core MVC\\AppointmentManager\\AppointmentManager\\appsettings.json",
+              "RelativeDocumentMoniker": "AppointmentManager\\appsettings.json",
+              "ToolTip": "D:\\Intern Files\\Intern Assessment\\L1 Assessment\\ASP .NET Core MVC\\AppointmentManager\\AppointmentManager\\appsettings.json",
+              "RelativeToolTip": "AppointmentManager\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-31T17:55:48.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Assessment\\L1 Assessment\\ASP .NET Core MVC\\AppointmentManager\\AppointmentManager\\Program.cs",
+              "RelativeDocumentMoniker": "AppointmentManager\\Program.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Assessment\\L1 Assessment\\ASP .NET Core MVC\\AppointmentManager\\AppointmentManager\\Program.cs",
+              "RelativeToolTip": "AppointmentManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T17:53:45.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Assessment\\L1 Assessment\\ASP .NET Core MVC\\AppointmentManager\\AppointmentManager\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "AppointmentManager\\Controllers\\PatientController.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Assessment\\L1 Assessment\\ASP .NET Core MVC\\AppointmentManager\\AppointmentManager\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "AppointmentManager\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T17:53:32.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Assessment\\L1 Assessment\\ASP .NET Core MVC\\AppointmentManager\\AppointmentManager\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "AppointmentManager\\Controllers\\DoctorController.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Assessment\\L1 Assessment\\ASP .NET Core MVC\\AppointmentManager\\AppointmentManager\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "AppointmentManager\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T17:53:18.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Assessment\\L1 Assessment\\ASP .NET Core MVC\\AppointmentManager\\AppointmentManager\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "AppointmentManager\\Controllers\\AppointmentController.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Assessment\\L1 Assessment\\ASP .NET Core MVC\\AppointmentManager\\AppointmentManager\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "AppointmentManager\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T17:53:03.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Assessment\\L1 Assessment\\ASP .NET Core MVC\\AppointmentManager\\AppointmentManager\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AppointmentManager\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Assessment\\L1 Assessment\\ASP .NET Core MVC\\AppointmentManager\\AppointmentManager\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AppointmentManager\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T17:51:15.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Assessment\\L1 Assessment\\ASP .NET Core MVC\\AppointmentManager\\AppointmentManager\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AppointmentManager\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Assessment\\L1 Assessment\\ASP .NET Core MVC\\AppointmentManager\\AppointmentManager\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AppointmentManager\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T17:48:42.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
