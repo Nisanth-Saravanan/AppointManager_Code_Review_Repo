@@ -1,24 +1,26 @@
-ƒ
-çD:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Program.cs8jr	
- !"$xÇ	
- $Æ
-îD:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Models\Patient.cs 8r	
-≤
-õD:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Models\ErrorViewModel.cs 8r	Ç≥
-òD:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Models\Appointment.cs 8r	
-´
+¬
+çD:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Program.cs8j	r
+!xÇ
+!¨
+îD:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Models\Patient.cs 8r
+≤
+õD:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Models\ErrorViewModel.cs 8r	Ç©
 ìD:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Models\Doctor.cs 
 8
-r	
-É
+r
+±
+òD:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Models\Appointment.cs 8r
+ˇ
 óD:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Data\AppDbContext.cs 
 8
-jr=	
- !"#%&')+-/02346789;<=?ABCDFGHJLMNOPRSUVÇ!%')+-/02367;=?ABCFHJLMNOR™
+jr:	 "#$&(*,-/01345689:<>?@ACDEGIJKLMOPRSÇ"$&(*,-/0348:<>?@CEGIJKLO°
 £D:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Controllers\PatientController.cs/ 
-8j.456IYZ[Çîrß	 !"$%&'()+,/012789:;<>?@BCDEFGJKLMNOQRSTUVW\]^_`abcefghjklmopqrstuvwxyz{|}~ÄÉÑÖÜáàäãåçéèëíïñóòôöõúùü†°£§•¶ß®xÇ=!$%&(+1;>?BCDFLNQRTV`bejloptvz}Öáäãåéëôöúü†•œ
-†D:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Controllers\HomeController.cs 8r	 Ç¨
+8j)/01DTUV}èrü	
+ !"#$&'*+,-2345679:;=>?@ABEFGHIJLMNOPQRWXYZ[\]^`abcefghjklmnopqrstuvwxyz{~ÄÅÇÉÖÜáàâäåçêëíìîïñóòöõúûü†°¢£xÇ= !#&,69:=>?AGILMOQ[]`egjkoquxzÄÇÖÜáâåîïóöõ†œ
+†D:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Controllers\HomeController.cs 8r	 Ç¢
 ¢D:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Controllers\DoctorController.cs/ 
-8j.456JZ[\Éïr©	 !"$%&'()+,/012789:;<>?@ACDEFGHKLMNOPRSTUVWX]^_`abcdfghiklmnpqrstuvwxyz{|}~ÄÅÑÖÜáàâãåçéèêíìñóòôöõúùû†°¢§•¶ß®©xÇ>!$%&(+1;>@CDEGMORSUWacfkmpquw{~ÄÜàãåçèíöõù†°¶Ï
+8j)/01EUVW~êr°	
+ !"#$&'*+,-2345679:;<>?@ABCFGHIJKMNOPQRSXYZ[\]^_abcdfghiklmnopqrstuvwxyz{|ÄÅÇÉÑÜáàâäãçéëíìîïñóòôõúùü†°¢£§xÇ= !#&,69;>?@BHJMNPR\^afhklprvy{ÅÉÜáàäçïñòõú°„
 ßD:\Intern Files\Intern Assessment\L1 Assessment\Code Quality\AppointManager_Code_Review_Repo\AppointmentManager\AppointmentManager\Controllers\AppointmentController.cs< 
-8j1;<=Sghií¶rÀ	 !"#%&'()*+,./23456789>?@ABCEFGHJKLMNOPQTUVWXY[\]^_`abcdejklmnopqstuvxyz{}~ÄÅÇÉÑÖÜáàâäãåçéèêìîïñóòöõúùûü†°£§ß®©™´¨≠ÆØ±≤≥µ∂∑∏π∫xÇW "%&'()+.45678BEGJKLNOPVX[\^`abcdnpsxz}~ÇÑàãçéèïóöõúùû†£´¨Æ±≤∑
+8j-789Ocdeé¢r√	
+!"#$%&'(*+./012345:;<=>?ABCDFGHIJKLMPQRSTUWXYZ[\]^_`afghijklmopqrtuvwyz{|}~ÄÅÇÉÑÖÜáàâäãåèêëíìîñóòôöõúùü†£§•¶ß®©™´≠ÆØ±≤≥¥µ∂xÇV!"#$%'*01234>ACFGHJKLRTWXZ\]^_`jlotvyz~ÄÑáâäãëìñóòôöúüß®™≠Æ≥

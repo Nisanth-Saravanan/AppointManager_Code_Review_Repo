@@ -23,9 +23,9 @@
               "resultFile": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Data/AppDbContext.cs",
                 "region": {
-                  "startLine": 11,
+                  "startLine": 8,
                   "startColumn": 12,
-                  "endLine": 11,
+                  "endLine": 8,
                   "endColumn": 24
                 }
               }
@@ -36,9 +36,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Data/AppDbContext.cs",
                 "region": {
-                  "startLine": 21,
+                  "startLine": 18,
                   "startColumn": 39,
-                  "endLine": 21,
+                  "endLine": 18,
                   "endColumn": 51
                 }
               }
@@ -60,9 +60,9 @@
               "resultFile": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Data/AppDbContext.cs",
                 "region": {
-                  "startLine": 11,
+                  "startLine": 8,
                   "startColumn": 12,
-                  "endLine": 11,
+                  "endLine": 8,
                   "endColumn": 24
                 }
               }
@@ -73,9 +73,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Data/AppDbContext.cs",
                 "region": {
-                  "startLine": 23,
+                  "startLine": 20,
                   "startColumn": 34,
-                  "endLine": 23,
+                  "endLine": 20,
                   "endColumn": 41
                 }
               }
@@ -97,9 +97,9 @@
               "resultFile": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Data/AppDbContext.cs",
                 "region": {
-                  "startLine": 11,
+                  "startLine": 8,
                   "startColumn": 12,
-                  "endLine": 11,
+                  "endLine": 8,
                   "endColumn": 24
                 }
               }
@@ -110,9 +110,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Data/AppDbContext.cs",
                 "region": {
-                  "startLine": 25,
+                  "startLine": 22,
                   "startColumn": 35,
-                  "endLine": 25,
+                  "endLine": 22,
                   "endColumn": 43
                 }
               }
@@ -134,9 +134,9 @@
               "resultFile": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Data/AppDbContext.cs",
                 "region": {
-                  "startLine": 16,
+                  "startLine": 13,
                   "startColumn": 12,
-                  "endLine": 16,
+                  "endLine": 13,
                   "endColumn": 24
                 }
               }
@@ -147,9 +147,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Data/AppDbContext.cs",
                 "region": {
-                  "startLine": 21,
+                  "startLine": 18,
                   "startColumn": 39,
-                  "endLine": 21,
+                  "endLine": 18,
                   "endColumn": 51
                 }
               }
@@ -171,9 +171,9 @@
               "resultFile": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Data/AppDbContext.cs",
                 "region": {
-                  "startLine": 16,
+                  "startLine": 13,
                   "startColumn": 12,
-                  "endLine": 16,
+                  "endLine": 13,
                   "endColumn": 24
                 }
               }
@@ -184,9 +184,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Data/AppDbContext.cs",
                 "region": {
-                  "startLine": 23,
+                  "startLine": 20,
                   "startColumn": 34,
-                  "endLine": 23,
+                  "endLine": 20,
                   "endColumn": 41
                 }
               }
@@ -208,9 +208,9 @@
               "resultFile": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Data/AppDbContext.cs",
                 "region": {
-                  "startLine": 16,
+                  "startLine": 13,
                   "startColumn": 12,
-                  "endLine": 16,
+                  "endLine": 13,
                   "endColumn": 24
                 }
               }
@@ -221,9 +221,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Data/AppDbContext.cs",
                 "region": {
-                  "startLine": 25,
+                  "startLine": 22,
                   "startColumn": 35,
-                  "endLine": 25,
+                  "endLine": 22,
                   "endColumn": 43
                 }
               }
@@ -678,54 +678,6 @@
           }
         },
         {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Doctor_Details_cshtml.g.cs",
-                "region": {
-                  "startLine": 140,
-                  "startColumn": 231,
-                  "endLine": 140,
-                  "endColumn": 233
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Doctor_Details_cshtml.g.cs",
-                "region": {
-                  "startLine": 173,
-                  "startColumn": 231,
-                  "endLine": 173,
-                  "endColumn": 233
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
           "ruleId": "CS8602",
           "level": "warning",
           "message": "Dereference of a possibly null reference.",
@@ -855,6 +807,222 @@
                   "startColumn": 232,
                   "endLine": 277,
                   "endColumn": 234
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Doctor_Delete_cshtml.g.cs",
+                "region": {
+                  "startLine": 146,
+                  "startColumn": 233,
+                  "endLine": 146,
+                  "endColumn": 235
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Doctor_Delete_cshtml.g.cs",
+                "region": {
+                  "startLine": 171,
+                  "startColumn": 236,
+                  "endLine": 171,
+                  "endColumn": 238
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views__ViewStart_cshtml.g.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 67,
+                  "endLine": 36,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views__ViewImports_cshtml.g.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 67,
+                  "endLine": 36,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Doctor_Details_cshtml.g.cs",
+                "region": {
+                  "startLine": 140,
+                  "startColumn": 231,
+                  "endLine": 140,
+                  "endColumn": 233
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Doctor_Details_cshtml.g.cs",
+                "region": {
+                  "startLine": 173,
+                  "startColumn": 231,
+                  "endLine": 173,
+                  "endColumn": 233
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Shared__ValidationScriptsPartial_cshtml.g.cs",
+                "region": {
+                  "startLine": 61,
+                  "startColumn": 236,
+                  "endLine": 61,
+                  "endColumn": 238
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Shared__ValidationScriptsPartial_cshtml.g.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 236,
+                  "endLine": 75,
+                  "endColumn": 238
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Home_Privacy_cshtml.g.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 67,
+                  "endLine": 36,
+                  "endColumn": 79
                 }
               }
             }
@@ -1185,59 +1353,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views__ViewStart_cshtml.g.cs",
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Shared_Error_cshtml.g.cs",
                 "region": {
-                  "startLine": 36,
+                  "startLine": 44,
                   "startColumn": 67,
-                  "endLine": 36,
-                  "endColumn": 79
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Home_Privacy_cshtml.g.cs",
-                "region": {
-                  "startLine": 36,
-                  "startColumn": 67,
-                  "endLine": 36,
-                  "endColumn": 79
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views__ViewImports_cshtml.g.cs",
-                "region": {
-                  "startLine": 36,
-                  "startColumn": 67,
-                  "endLine": 36,
+                  "endLine": 44,
                   "endColumn": 79
                 }
               }
@@ -1329,12 +1449,12 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Shared__ValidationScriptsPartial_cshtml.g.cs",
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
                 "region": {
-                  "startLine": 61,
-                  "startColumn": 236,
-                  "endLine": 61,
-                  "endColumn": 238
+                  "startLine": 98,
+                  "startColumn": 237,
+                  "endLine": 98,
+                  "endColumn": 239
                 }
               }
             }
@@ -1353,12 +1473,12 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Shared__ValidationScriptsPartial_cshtml.g.cs",
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
                 "region": {
-                  "startLine": 75,
-                  "startColumn": 236,
-                  "endLine": 75,
-                  "endColumn": 238
+                  "startLine": 122,
+                  "startColumn": 240,
+                  "endLine": 122,
+                  "endColumn": 242
                 }
               }
             }
@@ -1377,12 +1497,12 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Shared_Error_cshtml.g.cs",
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
                 "region": {
-                  "startLine": 44,
-                  "startColumn": 67,
-                  "endLine": 44,
-                  "endColumn": 79
+                  "startLine": 147,
+                  "startColumn": 241,
+                  "endLine": 147,
+                  "endColumn": 243
                 }
               }
             }
@@ -1401,12 +1521,12 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Doctor_Index_cshtml.g.cs",
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
                 "region": {
-                  "startLine": 83,
-                  "startColumn": 231,
-                  "endLine": 83,
-                  "endColumn": 233
+                  "startLine": 181,
+                  "startColumn": 240,
+                  "endLine": 181,
+                  "endColumn": 242
                 }
               }
             }
@@ -1425,59 +1545,347 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Doctor_Index_cshtml.g.cs",
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
                 "region": {
-                  "startLine": 169,
+                  "startLine": 206,
+                  "startColumn": 241,
+                  "endLine": 206,
+                  "endColumn": 243
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
+                "region": {
+                  "startLine": 240,
+                  "startColumn": 240,
+                  "endLine": 240,
+                  "endColumn": 242
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
+                "region": {
+                  "startLine": 265,
+                  "startColumn": 234,
+                  "endLine": 265,
+                  "endColumn": 236
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
+                "region": {
+                  "startLine": 289,
+                  "startColumn": 239,
+                  "endLine": 289,
+                  "endColumn": 241
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
+                "region": {
+                  "startLine": 313,
+                  "startColumn": 240,
+                  "endLine": 313,
+                  "endColumn": 242
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
+                "region": {
+                  "startLine": 338,
+                  "startColumn": 234,
+                  "endLine": 338,
+                  "endColumn": 236
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
+                "region": {
+                  "startLine": 362,
+                  "startColumn": 239,
+                  "endLine": 362,
+                  "endColumn": 241
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
+                "region": {
+                  "startLine": 386,
+                  "startColumn": 240,
+                  "endLine": 386,
+                  "endColumn": 242
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
+                "region": {
+                  "startLine": 413,
+                  "startColumn": 245,
+                  "endLine": 413,
+                  "endColumn": 247
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
+                "region": {
+                  "startLine": 429,
+                  "startColumn": 245,
+                  "endLine": 429,
+                  "endColumn": 247
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
+                "region": {
+                  "startLine": 445,
+                  "startColumn": 245,
+                  "endLine": 445,
+                  "endColumn": 247
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
+                "region": {
+                  "startLine": 461,
+                  "startColumn": 245,
+                  "endLine": 461,
+                  "endColumn": 247
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
+                "region": {
+                  "startLine": 477,
+                  "startColumn": 245,
+                  "endLine": 477,
+                  "endColumn": 247
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
+                "region": {
+                  "startLine": 516,
+                  "startColumn": 239,
+                  "endLine": 516,
+                  "endColumn": 241
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
+                "region": {
+                  "startLine": 556,
                   "startColumn": 232,
-                  "endLine": 169,
-                  "endColumn": 234
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Doctor_Index_cshtml.g.cs",
-                "region": {
-                  "startLine": 203,
-                  "startColumn": 232,
-                  "endLine": 203,
-                  "endColumn": 234
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Doctor_Index_cshtml.g.cs",
-                "region": {
-                  "startLine": 237,
-                  "startColumn": 232,
-                  "endLine": 237,
+                  "endLine": 556,
                   "endColumn": 234
                 }
               }
@@ -2025,12 +2433,12 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Doctor_Index_cshtml.g.cs",
                 "region": {
-                  "startLine": 98,
-                  "startColumn": 237,
-                  "endLine": 98,
-                  "endColumn": 239
+                  "startLine": 83,
+                  "startColumn": 231,
+                  "endLine": 83,
+                  "endColumn": 233
                 }
               }
             }
@@ -2049,420 +2457,108 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Doctor_Index_cshtml.g.cs",
                 "region": {
-                  "startLine": 122,
-                  "startColumn": 240,
-                  "endLine": 122,
-                  "endColumn": 242
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
-                "region": {
-                  "startLine": 147,
-                  "startColumn": 241,
-                  "endLine": 147,
-                  "endColumn": 243
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
-                "region": {
-                  "startLine": 181,
-                  "startColumn": 240,
-                  "endLine": 181,
-                  "endColumn": 242
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
-                "region": {
-                  "startLine": 206,
-                  "startColumn": 241,
-                  "endLine": 206,
-                  "endColumn": 243
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
-                "region": {
-                  "startLine": 240,
-                  "startColumn": 240,
-                  "endLine": 240,
-                  "endColumn": 242
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
-                "region": {
-                  "startLine": 265,
-                  "startColumn": 234,
-                  "endLine": 265,
-                  "endColumn": 236
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
-                "region": {
-                  "startLine": 289,
-                  "startColumn": 239,
-                  "endLine": 289,
-                  "endColumn": 241
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
-                "region": {
-                  "startLine": 313,
-                  "startColumn": 240,
-                  "endLine": 313,
-                  "endColumn": 242
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
-                "region": {
-                  "startLine": 338,
-                  "startColumn": 234,
-                  "endLine": 338,
-                  "endColumn": 236
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
-                "region": {
-                  "startLine": 362,
-                  "startColumn": 239,
-                  "endLine": 362,
-                  "endColumn": 241
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
-                "region": {
-                  "startLine": 386,
-                  "startColumn": 240,
-                  "endLine": 386,
-                  "endColumn": 242
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
-                "region": {
-                  "startLine": 413,
-                  "startColumn": 245,
-                  "endLine": 413,
-                  "endColumn": 247
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
-                "region": {
-                  "startLine": 429,
-                  "startColumn": 245,
-                  "endLine": 429,
-                  "endColumn": 247
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
-                "region": {
-                  "startLine": 445,
-                  "startColumn": 245,
-                  "endLine": 445,
-                  "endColumn": 247
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
-                "region": {
-                  "startLine": 461,
-                  "startColumn": 245,
-                  "endLine": 461,
-                  "endColumn": 247
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
-                "region": {
-                  "startLine": 477,
-                  "startColumn": 245,
-                  "endLine": 477,
-                  "endColumn": 247
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
-                "region": {
-                  "startLine": 516,
-                  "startColumn": 239,
-                  "endLine": 516,
-                  "endColumn": 241
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Create_cshtml.g.cs",
-                "region": {
-                  "startLine": 556,
+                  "startLine": 169,
                   "startColumn": 232,
-                  "endLine": 556,
+                  "endLine": 169,
                   "endColumn": 234
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Doctor_Index_cshtml.g.cs",
+                "region": {
+                  "startLine": 203,
+                  "startColumn": 232,
+                  "endLine": 203,
+                  "endColumn": 234
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Doctor_Index_cshtml.g.cs",
+                "region": {
+                  "startLine": 237,
+                  "startColumn": 232,
+                  "endLine": 237,
+                  "endColumn": 234
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Patient_Delete_cshtml.g.cs",
+                "region": {
+                  "startLine": 186,
+                  "startColumn": 234,
+                  "endLine": 186,
+                  "endColumn": 236
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Patient_Delete_cshtml.g.cs",
+                "region": {
+                  "startLine": 211,
+                  "startColumn": 236,
+                  "endLine": 211,
+                  "endColumn": 238
                 }
               }
             }
@@ -2847,102 +2943,6 @@
                   "startColumn": 232,
                   "endLine": 213,
                   "endColumn": 234
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Doctor_Delete_cshtml.g.cs",
-                "region": {
-                  "startLine": 146,
-                  "startColumn": 233,
-                  "endLine": 146,
-                  "endColumn": 235
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Doctor_Delete_cshtml.g.cs",
-                "region": {
-                  "startLine": 171,
-                  "startColumn": 236,
-                  "endLine": 171,
-                  "endColumn": 238
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Patient_Delete_cshtml.g.cs",
-                "region": {
-                  "startLine": 186,
-                  "startColumn": 234,
-                  "endLine": 186,
-                  "endColumn": 236
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Patient_Delete_cshtml.g.cs",
-                "region": {
-                  "startLine": 211,
-                  "startColumn": 236,
-                  "endLine": 211,
-                  "endColumn": 238
                 }
               }
             }
@@ -4034,30 +4034,6 @@
         {
           "ruleId": "CS0169",
           "level": "warning",
-          "message": "The field 'Views_Appointment_Delete.__tagHelperStringValueBuffer' is never used",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Delete_cshtml.g.cs",
-                "region": {
-                  "startLine": 52,
-                  "startColumn": 24,
-                  "endLine": 52,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0169",
-          "level": "warning",
           "message": "The field 'Views_Appointment_Create.__tagHelperStringValueBuffer' is never used",
           "suppressionStates": [
             "suppressedInSource"
@@ -4082,18 +4058,90 @@
         {
           "ruleId": "CS0169",
           "level": "warning",
-          "message": "The field 'Views_Doctor_Edit.__tagHelperStringValueBuffer' is never used",
+          "message": "The field 'Views_Doctor_Delete.__tagHelperStringValueBuffer' is never used",
           "suppressionStates": [
             "suppressedInSource"
           ],
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Doctor_Edit_cshtml.g.cs",
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Doctor_Delete_cshtml.g.cs",
+                "region": {
+                  "startLine": 52,
+                  "startColumn": 24,
+                  "endLine": 52,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "The field 'Views_Patient_Create.__tagHelperStringValueBuffer' is never used",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Patient_Create_cshtml.g.cs",
                 "region": {
                   "startLine": 58,
                   "startColumn": 24,
                   "endLine": 58,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "The field 'Views_Appointment_Delete.__tagHelperStringValueBuffer' is never used",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Appointment_Delete_cshtml.g.cs",
+                "region": {
+                  "startLine": 52,
+                  "startColumn": 24,
+                  "endLine": 52,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "The field 'Views_Shared__ValidationScriptsPartial.__tagHelperStringValueBuffer' is never used",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Shared__ValidationScriptsPartial_cshtml.g.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 24,
+                  "endLine": 43,
                   "endColumn": 52
                 }
               }
@@ -4154,42 +4202,18 @@
         {
           "ruleId": "CS0169",
           "level": "warning",
-          "message": "The field 'Views_Shared__ValidationScriptsPartial.__tagHelperStringValueBuffer' is never used",
+          "message": "The field 'Views_Home_Index.__tagHelperStringValueBuffer' is never used",
           "suppressionStates": [
             "suppressedInSource"
           ],
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Shared__ValidationScriptsPartial_cshtml.g.cs",
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Home_Index_cshtml.g.cs",
                 "region": {
-                  "startLine": 43,
+                  "startLine": 47,
                   "startColumn": 24,
-                  "endLine": 43,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0169",
-          "level": "warning",
-          "message": "The field 'Views_Patient_Edit.__tagHelperStringValueBuffer' is never used",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Patient_Edit_cshtml.g.cs",
-                "region": {
-                  "startLine": 59,
-                  "startColumn": 24,
-                  "endLine": 59,
+                  "endLine": 47,
                   "endColumn": 52
                 }
               }
@@ -4226,30 +4250,6 @@
         {
           "ruleId": "CS0169",
           "level": "warning",
-          "message": "The field 'Views_Patient_Create.__tagHelperStringValueBuffer' is never used",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Patient_Create_cshtml.g.cs",
-                "region": {
-                  "startLine": 58,
-                  "startColumn": 24,
-                  "endLine": 58,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0169",
-          "level": "warning",
           "message": "The field 'Views_Shared__Layout.__tagHelperStringValueBuffer' is never used",
           "suppressionStates": [
             "suppressedInSource"
@@ -4274,18 +4274,18 @@
         {
           "ruleId": "CS0169",
           "level": "warning",
-          "message": "The field 'Views_Home_Index.__tagHelperStringValueBuffer' is never used",
+          "message": "The field 'Views_Doctor_Edit.__tagHelperStringValueBuffer' is never used",
           "suppressionStates": [
             "suppressedInSource"
           ],
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Home_Index_cshtml.g.cs",
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Doctor_Edit_cshtml.g.cs",
                 "region": {
-                  "startLine": 47,
+                  "startLine": 58,
                   "startColumn": 24,
-                  "endLine": 47,
+                  "endLine": 58,
                   "endColumn": 52
                 }
               }
@@ -4298,18 +4298,18 @@
         {
           "ruleId": "CS0169",
           "level": "warning",
-          "message": "The field 'Views_Doctor_Delete.__tagHelperStringValueBuffer' is never used",
+          "message": "The field 'Views_Patient_Edit.__tagHelperStringValueBuffer' is never used",
           "suppressionStates": [
             "suppressedInSource"
           ],
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Doctor_Delete_cshtml.g.cs",
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/obj/Debug/net8.0/Microsoft.CodeAnalysis.Razor.Compiler/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Views_Patient_Edit_cshtml.g.cs",
                 "region": {
-                  "startLine": 52,
+                  "startLine": 59,
                   "startColumn": 24,
-                  "endLine": 52,
+                  "endLine": 59,
                   "endColumn": 52
                 }
               }
@@ -4362,40 +4362,24 @@
           }
         },
         {
-          "ruleId": "S4144",
+          "ruleId": "S3251",
           "level": "warning",
-          "message": "Update this method so that its implementation is not identical to 'Details'.",
+          "message": "Supply an implementation for this partial method.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/DoctorController.cs",
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Data/AppDbContext.cs",
                 "region": {
-                  "startLine": 132,
-                  "startColumn": 42,
-                  "endLine": 132,
-                  "endColumn": 48
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/DoctorController.cs",
-                "region": {
-                  "startLine": 29,
-                  "startColumn": 42,
-                  "endLine": 29,
-                  "endColumn": 49
+                  "startLine": 82,
+                  "startColumn": 5,
+                  "endLine": 82,
+                  "endColumn": 12
                 }
               }
             }
           ],
           "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "0": null
-            }
+            "warningLevel": 1
           }
         },
         {
@@ -4405,11 +4389,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/PatientController.cs",
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/DoctorController.cs",
                 "region": {
-                  "startLine": 131,
+                  "startLine": 127,
                   "startColumn": 42,
-                  "endLine": 131,
+                  "endLine": 127,
                   "endColumn": 48
                 }
               }
@@ -4418,11 +4402,11 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/PatientController.cs",
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/DoctorController.cs",
                 "region": {
-                  "startLine": 29,
+                  "startLine": 24,
                   "startColumn": 42,
-                  "endLine": 29,
+                  "endLine": 24,
                   "endColumn": 49
                 }
               }
@@ -4444,9 +4428,9 @@
               "resultFile": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 147,
+                  "startLine": 143,
                   "startColumn": 42,
-                  "endLine": 147,
+                  "endLine": 143,
                   "endColumn": 48
                 }
               }
@@ -4457,9 +4441,46 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 30,
+                  "startLine": 26,
                   "startColumn": 42,
-                  "endLine": 30,
+                  "endLine": 26,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null
+            }
+          }
+        },
+        {
+          "ruleId": "S4144",
+          "level": "warning",
+          "message": "Update this method so that its implementation is not identical to 'Details'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/PatientController.cs",
+                "region": {
+                  "startLine": 126,
+                  "startColumn": 42,
+                  "endLine": 126,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/PatientController.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 42,
+                  "endLine": 24,
                   "endColumn": 49
                 }
               }
@@ -4481,9 +4502,9 @@
               "resultFile": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 52,
+                  "startLine": 48,
                   "startColumn": 22,
-                  "endLine": 52,
+                  "endLine": 48,
                   "endColumn": 32
                 }
               }
@@ -4494,9 +4515,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 52,
+                  "startLine": 48,
                   "startColumn": 69,
-                  "endLine": 52,
+                  "endLine": 48,
                   "endColumn": 79
                 }
               }
@@ -4505,9 +4526,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 52,
+                  "startLine": 48,
                   "startColumn": 81,
-                  "endLine": 52,
+                  "endLine": 48,
                   "endColumn": 91
                 }
               }
@@ -4516,9 +4537,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 54,
+                  "startLine": 50,
                   "startColumn": 71,
-                  "endLine": 54,
+                  "endLine": 50,
                   "endColumn": 81
                 }
               }
@@ -4527,9 +4548,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 78,
+                  "startLine": 74,
                   "startColumn": 22,
-                  "endLine": 78,
+                  "endLine": 74,
                   "endColumn": 32
                 }
               }
@@ -4538,9 +4559,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 78,
+                  "startLine": 74,
                   "startColumn": 69,
-                  "endLine": 78,
+                  "endLine": 74,
                   "endColumn": 79
                 }
               }
@@ -4549,9 +4570,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 78,
+                  "startLine": 74,
                   "startColumn": 81,
-                  "endLine": 78,
+                  "endLine": 74,
                   "endColumn": 91
                 }
               }
@@ -4560,9 +4581,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 96,
+                  "startLine": 92,
                   "startColumn": 71,
-                  "endLine": 96,
+                  "endLine": 92,
                   "endColumn": 81
                 }
               }
@@ -4571,9 +4592,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 98,
+                  "startLine": 94,
                   "startColumn": 22,
-                  "endLine": 98,
+                  "endLine": 94,
                   "endColumn": 32
                 }
               }
@@ -4582,9 +4603,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 98,
+                  "startLine": 94,
                   "startColumn": 69,
-                  "endLine": 98,
+                  "endLine": 94,
                   "endColumn": 79
                 }
               }
@@ -4593,9 +4614,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 98,
+                  "startLine": 94,
                   "startColumn": 81,
-                  "endLine": 98,
+                  "endLine": 94,
                   "endColumn": 91
                 }
               }
@@ -4604,9 +4625,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 141,
+                  "startLine": 137,
                   "startColumn": 22,
-                  "endLine": 141,
+                  "endLine": 137,
                   "endColumn": 32
                 }
               }
@@ -4615,9 +4636,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 141,
+                  "startLine": 137,
                   "startColumn": 69,
-                  "endLine": 141,
+                  "endLine": 137,
                   "endColumn": 79
                 }
               }
@@ -4626,9 +4647,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 141,
+                  "startLine": 137,
                   "startColumn": 81,
-                  "endLine": 141,
+                  "endLine": 137,
                   "endColumn": 91
                 }
               }
@@ -4662,9 +4683,9 @@
               "resultFile": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 53,
+                  "startLine": 49,
                   "startColumn": 22,
-                  "endLine": 53,
+                  "endLine": 49,
                   "endColumn": 33
                 }
               }
@@ -4675,9 +4696,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 53,
+                  "startLine": 49,
                   "startColumn": 71,
-                  "endLine": 53,
+                  "endLine": 49,
                   "endColumn": 82
                 }
               }
@@ -4686,9 +4707,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 53,
+                  "startLine": 49,
                   "startColumn": 84,
-                  "endLine": 53,
+                  "endLine": 49,
                   "endColumn": 95
                 }
               }
@@ -4697,9 +4718,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 55,
+                  "startLine": 51,
                   "startColumn": 73,
-                  "endLine": 55,
+                  "endLine": 51,
                   "endColumn": 84
                 }
               }
@@ -4708,9 +4729,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 79,
+                  "startLine": 75,
                   "startColumn": 22,
-                  "endLine": 79,
+                  "endLine": 75,
                   "endColumn": 33
                 }
               }
@@ -4719,9 +4740,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 79,
+                  "startLine": 75,
                   "startColumn": 71,
-                  "endLine": 79,
+                  "endLine": 75,
                   "endColumn": 82
                 }
               }
@@ -4730,9 +4751,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 79,
+                  "startLine": 75,
                   "startColumn": 84,
-                  "endLine": 79,
+                  "endLine": 75,
                   "endColumn": 95
                 }
               }
@@ -4741,9 +4762,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 97,
+                  "startLine": 93,
                   "startColumn": 73,
-                  "endLine": 97,
+                  "endLine": 93,
                   "endColumn": 84
                 }
               }
@@ -4752,9 +4773,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 99,
+                  "startLine": 95,
                   "startColumn": 22,
-                  "endLine": 99,
+                  "endLine": 95,
                   "endColumn": 33
                 }
               }
@@ -4763,9 +4784,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 99,
+                  "startLine": 95,
                   "startColumn": 71,
-                  "endLine": 99,
+                  "endLine": 95,
                   "endColumn": 82
                 }
               }
@@ -4774,9 +4795,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 99,
+                  "startLine": 95,
                   "startColumn": 84,
-                  "endLine": 99,
+                  "endLine": 95,
                   "endColumn": 95
                 }
               }
@@ -4785,9 +4806,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 142,
+                  "startLine": 138,
                   "startColumn": 22,
-                  "endLine": 142,
+                  "endLine": 138,
                   "endColumn": 33
                 }
               }
@@ -4796,9 +4817,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 142,
+                  "startLine": 138,
                   "startColumn": 71,
-                  "endLine": 142,
+                  "endLine": 138,
                   "endColumn": 82
                 }
               }
@@ -4807,9 +4828,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 142,
+                  "startLine": 138,
                   "startColumn": 84,
-                  "endLine": 142,
+                  "endLine": 138,
                   "endColumn": 95
                 }
               }
@@ -4843,9 +4864,9 @@
               "resultFile": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 54,
+                  "startLine": 50,
                   "startColumn": 22,
-                  "endLine": 54,
+                  "endLine": 50,
                   "endColumn": 34
                 }
               }
@@ -4856,9 +4877,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 54,
+                  "startLine": 50,
                   "startColumn": 83,
-                  "endLine": 54,
+                  "endLine": 50,
                   "endColumn": 95
                 }
               }
@@ -4867,9 +4888,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 96,
+                  "startLine": 92,
                   "startColumn": 22,
-                  "endLine": 96,
+                  "endLine": 92,
                   "endColumn": 34
                 }
               }
@@ -4878,9 +4899,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 96,
+                  "startLine": 92,
                   "startColumn": 83,
-                  "endLine": 96,
+                  "endLine": 92,
                   "endColumn": 95
                 }
               }
@@ -4904,9 +4925,9 @@
               "resultFile": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 55,
+                  "startLine": 51,
                   "startColumn": 22,
-                  "endLine": 55,
+                  "endLine": 51,
                   "endColumn": 35
                 }
               }
@@ -4917,9 +4938,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 55,
+                  "startLine": 51,
                   "startColumn": 86,
-                  "endLine": 55,
+                  "endLine": 51,
                   "endColumn": 99
                 }
               }
@@ -4928,9 +4949,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 97,
+                  "startLine": 93,
                   "startColumn": 22,
-                  "endLine": 97,
+                  "endLine": 93,
                   "endColumn": 35
                 }
               }
@@ -4939,9 +4960,9 @@
               "physicalLocation": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 97,
+                  "startLine": 93,
                   "startColumn": 86,
-                  "endLine": 97,
+                  "endLine": 93,
                   "endColumn": 99
                 }
               }
@@ -4957,27 +4978,6 @@
           }
         },
         {
-          "ruleId": "S3251",
-          "level": "warning",
-          "message": "Supply an implementation for this partial method.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Data/AppDbContext.cs",
-                "region": {
-                  "startLine": 85,
-                  "startColumn": 5,
-                  "endLine": 85,
-                  "endColumn": 12
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
           "ruleId": "S2068",
           "level": "warning",
           "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
@@ -4986,31 +4986,10 @@
               "resultFile": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Data/AppDbContext.cs",
                 "region": {
-                  "startLine": 29,
+                  "startLine": 26,
                   "startColumn": 36,
-                  "endLine": 29,
+                  "endLine": 26,
                   "endColumn": 108
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S6967",
-          "level": "warning",
-          "message": "ModelState.IsValid should be checked in controller actions.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 42,
-                  "endLine": 30,
-                  "endColumn": 49
                 }
               }
             }
@@ -5028,9 +5007,9 @@
               "resultFile": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Program.cs",
                 "region": {
-                  "startLine": 36,
+                  "startLine": 33,
                   "startColumn": 1,
-                  "endLine": 36,
+                  "endLine": 33,
                   "endColumn": 10
                 }
               }
@@ -5049,9 +5028,30 @@
               "resultFile": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/PatientController.cs",
                 "region": {
-                  "startLine": 29,
+                  "startLine": 24,
                   "startColumn": 42,
-                  "endLine": 29,
+                  "endLine": 24,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6967",
+          "level": "warning",
+          "message": "ModelState.IsValid should be checked in controller actions.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 42,
+                  "endLine": 26,
                   "endColumn": 49
                 }
               }
@@ -5070,94 +5070,10 @@
               "resultFile": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/DoctorController.cs",
                 "region": {
-                  "startLine": 75,
+                  "startLine": 24,
                   "startColumn": 42,
-                  "endLine": 75,
-                  "endColumn": 46
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S6967",
-          "level": "warning",
-          "message": "ModelState.IsValid should be checked in controller actions.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/DoctorController.cs",
-                "region": {
-                  "startLine": 29,
-                  "startColumn": 42,
-                  "endLine": 29,
+                  "endLine": 24,
                   "endColumn": 49
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S6967",
-          "level": "warning",
-          "message": "ModelState.IsValid should be checked in controller actions.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/PatientController.cs",
-                "region": {
-                  "startLine": 74,
-                  "startColumn": 42,
-                  "endLine": 74,
-                  "endColumn": 46
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S6967",
-          "level": "warning",
-          "message": "ModelState.IsValid should be checked in controller actions.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/DoctorController.cs",
-                "region": {
-                  "startLine": 132,
-                  "startColumn": 42,
-                  "endLine": 132,
-                  "endColumn": 48
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S6967",
-          "level": "warning",
-          "message": "ModelState.IsValid should be checked in controller actions.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/DoctorController.cs",
-                "region": {
-                  "startLine": 152,
-                  "startColumn": 42,
-                  "endLine": 152,
-                  "endColumn": 57
                 }
               }
             }
@@ -5175,9 +5091,9 @@
               "resultFile": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Data/AppDbContext.cs",
                 "region": {
-                  "startLine": 82,
+                  "startLine": 79,
                   "startColumn": 9,
-                  "endLine": 82,
+                  "endLine": 79,
                   "endColumn": 46
                 }
               }
@@ -5196,10 +5112,31 @@
               "resultFile": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/PatientController.cs",
                 "region": {
-                  "startLine": 131,
+                  "startLine": 69,
                   "startColumn": 42,
-                  "endLine": 131,
-                  "endColumn": 48
+                  "endLine": 69,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6967",
+          "level": "warning",
+          "message": "ModelState.IsValid should be checked in controller actions.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/DoctorController.cs",
+                "region": {
+                  "startLine": 70,
+                  "startColumn": 42,
+                  "endLine": 70,
+                  "endColumn": 46
                 }
               }
             }
@@ -5217,9 +5154,9 @@
               "resultFile": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 84,
+                  "startLine": 80,
                   "startColumn": 42,
-                  "endLine": 84,
+                  "endLine": 80,
                   "endColumn": 46
                 }
               }
@@ -5238,9 +5175,72 @@
               "resultFile": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/PatientController.cs",
                 "region": {
-                  "startLine": 151,
+                  "startLine": 126,
                   "startColumn": 42,
-                  "endLine": 151,
+                  "endLine": 126,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6967",
+          "level": "warning",
+          "message": "ModelState.IsValid should be checked in controller actions.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/DoctorController.cs",
+                "region": {
+                  "startLine": 127,
+                  "startColumn": 42,
+                  "endLine": 127,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6967",
+          "level": "warning",
+          "message": "ModelState.IsValid should be checked in controller actions.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/PatientController.cs",
+                "region": {
+                  "startLine": 146,
+                  "startColumn": 42,
+                  "endLine": 146,
+                  "endColumn": 57
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6967",
+          "level": "warning",
+          "message": "ModelState.IsValid should be checked in controller actions.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/DoctorController.cs",
+                "region": {
+                  "startLine": 147,
+                  "startColumn": 42,
+                  "endLine": 147,
                   "endColumn": 57
                 }
               }
@@ -5259,9 +5259,9 @@
               "resultFile": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 147,
+                  "startLine": 143,
                   "startColumn": 42,
-                  "endLine": 147,
+                  "endLine": 143,
                   "endColumn": 48
                 }
               }
@@ -5280,9 +5280,9 @@
               "resultFile": {
                 "uri": "file:///D:/Intern%20Files/Intern%20Assessment/L1%20Assessment/Code%20Quality/AppointManager_Code_Review_Repo/AppointmentManager/AppointmentManager/Controllers/AppointmentController.cs",
                 "region": {
-                  "startLine": 169,
+                  "startLine": 165,
                   "startColumn": 42,
-                  "endLine": 169,
+                  "endLine": 165,
                   "endColumn": 57
                 }
               }
